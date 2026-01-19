@@ -203,6 +203,8 @@ Launch for Moderate users - they're ready now.
 Test adapted versions for Narrow users - that +12.9% discovery potential is too good to ignore. Try gradual shift first, genre constraint if that doesn't work, toggle as backup.
 
 Skip Wide users - no benefit there.
+
+
 ---
 
 **Methods:** Two-sample t-tests, Cohen's d, 95% CIs, α=0.05 (standard stats stuff from coursework)
