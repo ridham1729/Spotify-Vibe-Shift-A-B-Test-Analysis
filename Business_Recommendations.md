@@ -192,7 +192,6 @@ In production, I'd need to:
 - Way bigger sample size (I only had 120 Narrow users)
 - Test across platforms (mobile vs desktop might differ)
 
-But for demonstrating experimental design, segmentation, and product thinking, simulated data works fine. The analysis approach is what matters for a portfolio piece.
 
 ---
 
