@@ -4,6 +4,8 @@
 
 A portfolio project analyzing whether recommending opposite music to users increases engagement and discovery on a music streaming platform.
 
+**Data Source:** [Spotify Dataset on Kaggle](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
+
 ---
 
 ## Quick Note About This Repo
